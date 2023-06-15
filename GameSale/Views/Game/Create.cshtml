@@ -1,0 +1,62 @@
+﻿@model Entities.Dtos.GameDtos.GameVmDto
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="Game.GameName" class="control-label"></label>
+                <input asp-for="Game.GameName" class="form-control" />
+                <span asp-validation-for="Game.GameName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Game.Price" class="control-label"></label>
+                <input asp-for="Game.Price" class="form-control" />
+                <span asp-validation-for="Game.Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Game.GameCoverPhoto" class="control-label"></label>
+                <input asp-for="Game.GameCoverPhoto" class="form-control" />
+                <span asp-validation-for="Game.GameCoverPhoto" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Game.DownloadLink" class="control-label"></label>
+                <input asp-for="Game.DownloadLink" class="form-control" />
+                <span asp-validation-for="Game.DownloadLink" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Game.SystemRequirements" class="control-label"></label>
+                <input asp-for="Game.SystemRequirements" class="form-control" />
+                <span asp-validation-for="Game.SystemRequirements" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Game.CompanyId" class="control-label"></label>
+                <input asp-for="Game.CompanyId" class="form-control" />
+                <span asp-validation-for="Game.CompanyId" class="text-danger"></span>
+            </div>
+
+           
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

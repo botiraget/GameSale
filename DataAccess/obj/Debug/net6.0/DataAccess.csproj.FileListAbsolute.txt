@@ -1,0 +1,722 @@
+C:\Users\blntt\source\repos\GameSale\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\blntt\source\repos\GameSale\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\blntt\source\repos\GameSale\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\source\repos\GameSale\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\source\repos\GameSale\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\source\repos\GameSale\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\source\repos\GameSale\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\source\repos\GameSale\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\source\repos\GameSale\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\blntt\source\repos\GameSale\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\source\repos\GameSale\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\blntt\source\repos\GameSale\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\blntt\source\repos\GameSale\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\blntt\source\repos\GameSale\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\blntt\source\repos\GameSale\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\source\repos\GameSale\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\blntt\source\repos\GameSale\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\source\repos\GameSale\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\blntt\source\repos\GameSale\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale 06.06.2023\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\blntt\Desktop\GameSale 06.06.2023\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\blntt\Desktop\GameSale 06.06.2023\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale 06.06.2023\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\GameSale 06.06.2023\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\GameSale 06.06.2023\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale 06.06.2023\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale 06.06.2023\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\GameSale 06.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\GameSale 06.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\GameSale 06.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\GameSale 06.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\blntt\Desktop\GameSale 06.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\GameSale 06.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\blntt\Desktop\GameSale 06.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale 06.06.2023\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale 06.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\GameSale 06.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\blntt\Desktop\GameSale 06.06.2023\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale 07.06.2023\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\blntt\Desktop\GameSale 07.06.2023\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\blntt\Desktop\GameSale 07.06.2023\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale 07.06.2023\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\GameSale 07.06.2023\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\GameSale 07.06.2023\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale 07.06.2023\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale 07.06.2023\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\GameSale 07.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\GameSale 07.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\GameSale 07.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\GameSale 07.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\blntt\Desktop\GameSale 07.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\GameSale 07.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\blntt\Desktop\GameSale 07.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale 07.06.2023\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale 07.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\GameSale 07.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\blntt\Desktop\GameSale 07.06.2023\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale 08.06.2023\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\blntt\Desktop\GameSale 08.06.2023\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\blntt\Desktop\GameSale 08.06.2023\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale 08.06.2023\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\GameSale 08.06.2023\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\GameSale 08.06.2023\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale 08.06.2023\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale 08.06.2023\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\GameSale 08.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\GameSale 08.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\GameSale 08.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\GameSale 08.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\blntt\Desktop\GameSale 08.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\GameSale 08.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\blntt\Desktop\GameSale 08.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale 08.06.2023\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale 08.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\GameSale 08.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\blntt\Desktop\GameSale 08.06.2023\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale 09.06.2023\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\blntt\Desktop\GameSale 09.06.2023\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\blntt\Desktop\GameSale 09.06.2023\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale 09.06.2023\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\GameSale 09.06.2023\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\GameSale 09.06.2023\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale 09.06.2023\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale 09.06.2023\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\GameSale 09.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\GameSale 09.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\GameSale 09.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\GameSale 09.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\blntt\Desktop\GameSale 09.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\GameSale 09.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\blntt\Desktop\GameSale 09.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale 09.06.2023\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale 09.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\GameSale 09.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\blntt\Desktop\GameSale 09.06.2023\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

@@ -1,0 +1,785 @@
+C:\Users\blntt\source\repos\GameSale\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\blntt\source\repos\GameSale\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\blntt\source\repos\GameSale\Business\bin\Debug\net6.0\Business.dll
+C:\Users\blntt\source\repos\GameSale\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\blntt\source\repos\GameSale\Business\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\source\repos\GameSale\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\source\repos\GameSale\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\source\repos\GameSale\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\source\repos\GameSale\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\source\repos\GameSale\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\source\repos\GameSale\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\blntt\source\repos\GameSale\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\source\repos\GameSale\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\blntt\source\repos\GameSale\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\blntt\source\repos\GameSale\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\blntt\source\repos\GameSale\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\blntt\source\repos\GameSale\Business\obj\Debug\net6.0\Business.dll
+C:\Users\blntt\source\repos\GameSale\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\blntt\source\repos\GameSale\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\blntt\source\repos\GameSale\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\blntt\source\repos\GameSale\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\Business\bin\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\Business\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\Business\obj\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\blntt\Desktop\GameSale 06.06.2023\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\blntt\Desktop\GameSale 06.06.2023\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\blntt\Desktop\GameSale 06.06.2023\Business\bin\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\GameSale 06.06.2023\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\GameSale 06.06.2023\Business\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\GameSale 06.06.2023\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale 06.06.2023\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale 06.06.2023\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\GameSale 06.06.2023\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale 06.06.2023\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\GameSale 06.06.2023\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\GameSale 06.06.2023\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\GameSale 06.06.2023\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\GameSale 06.06.2023\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\blntt\Desktop\GameSale 06.06.2023\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\GameSale 06.06.2023\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\blntt\Desktop\GameSale 06.06.2023\Business\obj\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\GameSale 06.06.2023\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\blntt\Desktop\GameSale 06.06.2023\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\GameSale 06.06.2023\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\blntt\Desktop\GameSale 06.06.2023\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\blntt\Desktop\GameSale 07.06.2023\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\blntt\Desktop\GameSale 07.06.2023\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\blntt\Desktop\GameSale 07.06.2023\Business\bin\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\GameSale 07.06.2023\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\GameSale 07.06.2023\Business\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\GameSale 07.06.2023\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale 07.06.2023\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale 07.06.2023\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\GameSale 07.06.2023\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale 07.06.2023\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\GameSale 07.06.2023\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\GameSale 07.06.2023\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\GameSale 07.06.2023\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\GameSale 07.06.2023\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\blntt\Desktop\GameSale 07.06.2023\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\GameSale 07.06.2023\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\blntt\Desktop\GameSale 07.06.2023\Business\obj\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\GameSale 07.06.2023\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\blntt\Desktop\GameSale 07.06.2023\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\GameSale 07.06.2023\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\blntt\Desktop\GameSale 07.06.2023\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\blntt\Desktop\GameSale 08.06.2023\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\blntt\Desktop\GameSale 08.06.2023\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\blntt\Desktop\GameSale 08.06.2023\Business\bin\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\GameSale 08.06.2023\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\GameSale 08.06.2023\Business\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\GameSale 08.06.2023\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale 08.06.2023\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale 08.06.2023\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\GameSale 08.06.2023\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale 08.06.2023\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\GameSale 08.06.2023\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\GameSale 08.06.2023\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\GameSale 08.06.2023\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\GameSale 08.06.2023\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\blntt\Desktop\GameSale 08.06.2023\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\GameSale 08.06.2023\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\blntt\Desktop\GameSale 08.06.2023\Business\obj\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\GameSale 08.06.2023\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\blntt\Desktop\GameSale 08.06.2023\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\GameSale 08.06.2023\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\blntt\Desktop\GameSale 08.06.2023\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\blntt\Desktop\GameSale 09.06.2023\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\blntt\Desktop\GameSale 09.06.2023\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\blntt\Desktop\GameSale 09.06.2023\Business\bin\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\GameSale 09.06.2023\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\GameSale 09.06.2023\Business\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\GameSale 09.06.2023\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale 09.06.2023\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale 09.06.2023\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\GameSale 09.06.2023\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale 09.06.2023\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\GameSale 09.06.2023\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\GameSale 09.06.2023\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\GameSale 09.06.2023\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\GameSale 09.06.2023\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\blntt\Desktop\GameSale 09.06.2023\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\GameSale 09.06.2023\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\blntt\Desktop\GameSale 09.06.2023\Business\obj\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\GameSale 09.06.2023\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\blntt\Desktop\GameSale 09.06.2023\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\GameSale 09.06.2023\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\blntt\Desktop\GameSale 09.06.2023\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\Business\bin\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\Business\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\Business\obj\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\Business\bin\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\Business\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\Business\obj\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\Business\bin\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\Business\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\Business\obj\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\Business\obj\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\Business\bin\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\Business\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\Business\bin\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\Business\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\Business\obj\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\Business\bin\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\Business\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\Business\obj\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\Business\bin\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\Business\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\Business\obj\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\Business\bin\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\Business\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\Business\obj\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\Business\bin\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\Business\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\Business\obj\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\Business\bin\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\Business\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\Business\obj\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\Business\bin\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\Business\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\Business\obj\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\Business\bin\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\Business\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\Business\obj\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\Business\bin\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\Business\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\Business\obj\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\Business\bin\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\Business\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\Business\obj\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\Business\bin\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\Business\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\Business\obj\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\Business\bin\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\Business\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\Business\obj\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\Business\bin\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\Business\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\Business\obj\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\Business\bin\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\Business\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\Business\obj\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\Business\bin\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\Business\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\Business\obj\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\Business\bin\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\Business\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\Business\obj\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\Business\bin\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\Business\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\Business\obj\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\Business\obj\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\Business\obj\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\Business\bin\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\Business\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\Business\bin\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\Business\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\Business\obj\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\Business\bin\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\Business\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\Business\obj\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\Business\bin\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\Business\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\Business\obj\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\Business\bin\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\Business\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\Business\obj\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\Business\bin\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\Business\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\Business\obj\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\Business\bin\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\Business\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\Business\obj\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\Business\bin\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\Business\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\Business\obj\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\Business\bin\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\Business\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\Business\obj\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\Business\bin\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\Business\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\Business\obj\Debug\net6.0\Business.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\Business\obj\Debug\net6.0\ref\Business.dll

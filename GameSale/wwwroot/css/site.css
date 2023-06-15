@@ -1,0 +1,115 @@
+:root {
+    --radius-border: 12px;
+    --img-radius-border: 24px;
+}
+
+html {
+    font-size: 14px;
+}
+
+* {
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif ;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-color: #FAF0E4;
+}
+
+header {
+    background: linear-gradient(90deg, rgba(155,205,210,1) 0%, rgba(155,205,210,1) 19%, rgba(155,205,210,1) 36%, rgba(155,205,210,1) 46%, rgba(0,212,255,1) 100%);
+}
+
+    header .nav-item a {
+        color: black !important;
+        border: 1px solid rgba(0,0,0,0.5);
+        border-radius: var(--radius-border);
+        margin: 0 4px;
+        padding: 4px 12px !important;
+        font-size: 1.1rem;
+        box-shadow: 1.7px 3.4px 5.4px hsl(0deg 0% 0% / 0.45);
+    }
+
+header .nav-item a:active {
+    box-shadow: 0.7px 0.4px 2.4px hsl(0deg 0% 0% / 0.45);
+}
+
+header .nav-item a:hover {
+    background-color: #90BFC4;
+}
+
+.navbar-brand {
+    font-size: 2rem;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+}
+
+#games {
+    display: flex;
+    justify-content: center;
+}
+
+.game {
+    width: 200px;
+    border: 1px dashed grey;
+    padding: 4px;
+    margin: 0 4px;
+}
+
+.game img {
+    max-width: 120px;
+    min-width: 80px;
+    margin: 8px auto 24px;
+    display: block;
+    border-radius: var(--img-radius-border);
+}
+
+
+.games {
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+    gap: 4px;
+}
+
+.game {
+    border: 1px solid black;
+    border-radius: var(--radius-border);
+    margin: 4px;
+    padding: 16px
+}
+
+
+.profile {
+    display: flex;
+    border: 1px solid black;
+    border-radius: var(--radius-border);
+    width: 500px;
+    padding: 16px;
+    margin-bottom: 16px;
+}
+
+
+.profile .img-wrap img {
+    width: 200px;
+    margin-right: 16px;
+}
+
+
+.game-detail {
+    display: flex;
+}
+
+.game-detail img {
+    padding-right: 32px;
+}

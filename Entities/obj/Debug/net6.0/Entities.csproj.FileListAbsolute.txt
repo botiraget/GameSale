@@ -1,0 +1,646 @@
+C:\Users\blntt\source\repos\GameSale\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\blntt\source\repos\GameSale\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\blntt\source\repos\GameSale\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\source\repos\GameSale\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\source\repos\GameSale\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\source\repos\GameSale\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\source\repos\GameSale\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\blntt\source\repos\GameSale\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\source\repos\GameSale\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\blntt\source\repos\GameSale\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\blntt\source\repos\GameSale\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\blntt\source\repos\GameSale\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\blntt\source\repos\GameSale\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\blntt\source\repos\GameSale\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\blntt\source\repos\GameSale\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\blntt\source\repos\GameSale\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\blntt\source\repos\GameSale\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 06.06.2023\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\blntt\Desktop\GameSale 06.06.2023\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\blntt\Desktop\GameSale 06.06.2023\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\blntt\Desktop\GameSale 06.06.2023\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale 06.06.2023\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale 06.06.2023\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\GameSale 06.06.2023\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\GameSale 06.06.2023\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\GameSale 06.06.2023\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\GameSale 06.06.2023\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\GameSale 06.06.2023\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\blntt\Desktop\GameSale 06.06.2023\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\GameSale 06.06.2023\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\blntt\Desktop\GameSale 06.06.2023\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale 06.06.2023\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\blntt\Desktop\GameSale 06.06.2023\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale 06.06.2023\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\blntt\Desktop\GameSale 06.06.2023\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\blntt\Desktop\GameSale 07.06.2023\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\blntt\Desktop\GameSale 07.06.2023\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\blntt\Desktop\GameSale 07.06.2023\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale 07.06.2023\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale 07.06.2023\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\GameSale 07.06.2023\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\GameSale 07.06.2023\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\GameSale 07.06.2023\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\GameSale 07.06.2023\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\GameSale 07.06.2023\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\blntt\Desktop\GameSale 07.06.2023\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\GameSale 07.06.2023\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\blntt\Desktop\GameSale 07.06.2023\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale 07.06.2023\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\blntt\Desktop\GameSale 07.06.2023\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale 07.06.2023\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\blntt\Desktop\GameSale 07.06.2023\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\blntt\Desktop\GameSale 08.06.2023\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\blntt\Desktop\GameSale 08.06.2023\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\blntt\Desktop\GameSale 08.06.2023\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale 08.06.2023\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale 08.06.2023\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\GameSale 08.06.2023\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\GameSale 08.06.2023\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\GameSale 08.06.2023\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\GameSale 08.06.2023\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\GameSale 08.06.2023\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\blntt\Desktop\GameSale 08.06.2023\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\GameSale 08.06.2023\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\blntt\Desktop\GameSale 08.06.2023\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale 08.06.2023\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\blntt\Desktop\GameSale 08.06.2023\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale 08.06.2023\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\blntt\Desktop\GameSale 08.06.2023\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\blntt\Desktop\GameSale 09.06.2023\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\blntt\Desktop\GameSale 09.06.2023\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\blntt\Desktop\GameSale 09.06.2023\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale 09.06.2023\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale 09.06.2023\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\GameSale 09.06.2023\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\GameSale 09.06.2023\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\GameSale 09.06.2023\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\GameSale 09.06.2023\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\GameSale 09.06.2023\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\blntt\Desktop\GameSale 09.06.2023\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\GameSale 09.06.2023\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\blntt\Desktop\GameSale 09.06.2023\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale 09.06.2023\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\blntt\Desktop\GameSale 09.06.2023\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale 09.06.2023\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\blntt\Desktop\GameSale 09.06.2023\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\GameSale 09.06.2023 V2\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 10.06.2023\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 10.06.2023 V2\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 10.06.2023 V2\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 11.06.2023 V2\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V3\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 12.06.2023 V5\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V1\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V2\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 13.06.2023 V7\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V7\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V8\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V9\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 13.06.2023 V10\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V1\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V2\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V3\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V6\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V7\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V8\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\blntt\Desktop\GameSale Proje aşamaları\Game Sale 14.06.2023 V9.1\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V11\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 14.06.2023 V12\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V1\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V2\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Game Sale 15.06.2023 V3\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V3\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V4\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\Entities\obj\Debug\net6.0\ref\Entities.dll

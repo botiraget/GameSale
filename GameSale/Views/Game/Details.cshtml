@@ -1,0 +1,34 @@
+﻿@model Entities.Dtos.GameDtos.GameVmDto
+@using Entities.Concrete.Models
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>@Html.DisplayFor(model => model.Game.GameName)</h1>
+
+<main class="game-detail">
+    <img src="/CoverImage/default-game-photo.jpg" />
+    <div>
+        <h5><strong>Price:</strong> @Html.DisplayFor(model => model.Game.Price)</h5>
+        <h4><strong>Company:</strong> @Html.DisplayFor(model => model.Game.Company.CompanyName)</h4>
+@*        <h5><strong>Category: </strong>@Html.DisplayFor(model => model.Game.Game_Categories.FirstOrDefault().Category.CategoryName)</h5>
+*@        <h4><a href="#">Download</a></h4>
+        <p><strong>System Requirements: </strong>@Html.DisplayFor(model => model.Game.SystemRequirements)</p>
+    </div>
+    <dt class = "col-sm-2">
+        @Html.DisplayNameFor(model => model.Game.GameId)
+        </dt>
+        <dd class = "col-sm-
+
+
+">
+        @Html.DisplayFor(model => model.Game.GameId)
+        </dd>
+</main>
+
+
+@Html.ActionLink("Edit", "Edit", new { id=Model.Game.GameId}) |
+<a asp-action="Index">Back to List</a>
+</div>
+

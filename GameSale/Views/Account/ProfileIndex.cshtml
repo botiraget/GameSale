@@ -1,0 +1,41 @@
+﻿@using Entities
+@model Entities.Dtos.AuthDtos.ProfileDto
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Profile</h1>
+
+<p>
+    <a asp-action="Edit">Edit</a>
+</p>
+
+
+<main class="profile">
+    <div class="img-wrap">
+        <img src="/CoverImage/default-avatar.png" />
+    </div>
+    @*@Html.DisplayFor(model => model.Member.Avatar)*@
+    <div>
+        <h3>@Html.DisplayFor(model => model.Member.UserName)</h3>
+        <h5>@Html.DisplayFor(model => model.Member.FirstName) @Html.DisplayFor(model => model.Member.LastName)</h5>
+    </div>
+</main>
+
+<div class="games">
+    @foreach (var game in Model.Games)
+    {
+
+        <div class="game">
+            <a asp-controller="Game" asp-action="Details" asp-route-id="@game.GameId">
+                <img src="/CoverImage/default-game-photo.jpg">
+                <h3>@game.GameName</h3>
+
+                <br>
+            </a>
+
+        </div>
+
+    }
+</div>
