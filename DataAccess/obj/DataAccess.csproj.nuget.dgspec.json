@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\blntt\\Desktop\\Proje son\\Game Sale 15.06.2023 V6\\DataAccess\\DataAccess.csproj": {}
+    "C:\\Users\\blntt\\Documents\\GitHub\\GameSale\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\blntt\\Desktop\\Proje son\\Game Sale 15.06.2023 V6\\Core\\Core.csproj": {
+    "C:\\Users\\blntt\\Documents\\GitHub\\GameSale\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\blntt\\Desktop\\Proje son\\Game Sale 15.06.2023 V6\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\blntt\\Documents\\GitHub\\GameSale\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\blntt\\Desktop\\Proje son\\Game Sale 15.06.2023 V6\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\blntt\\Documents\\GitHub\\GameSale\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\blntt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\blntt\\Desktop\\Proje son\\Game Sale 15.06.2023 V6\\Core\\obj\\",
+        "outputPath": "C:\\Users\\blntt\\Documents\\GitHub\\GameSale\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -101,14 +101,14 @@
         }
       }
     },
-    "C:\\Users\\blntt\\Desktop\\Proje son\\Game Sale 15.06.2023 V6\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\blntt\\Documents\\GitHub\\GameSale\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\blntt\\Desktop\\Proje son\\Game Sale 15.06.2023 V6\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\blntt\\Documents\\GitHub\\GameSale\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\blntt\\Desktop\\Proje son\\Game Sale 15.06.2023 V6\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\blntt\\Documents\\GitHub\\GameSale\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\blntt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\blntt\\Desktop\\Proje son\\Game Sale 15.06.2023 V6\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\blntt\\Documents\\GitHub\\GameSale\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -129,8 +129,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\blntt\\Desktop\\Proje son\\Game Sale 15.06.2023 V6\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\blntt\\Desktop\\Proje son\\Game Sale 15.06.2023 V6\\Entities\\Entities.csproj"
+              "C:\\Users\\blntt\\Documents\\GitHub\\GameSale\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\blntt\\Documents\\GitHub\\GameSale\\Entities\\Entities.csproj"
               }
             }
           }
@@ -202,14 +202,14 @@
         }
       }
     },
-    "C:\\Users\\blntt\\Desktop\\Proje son\\Game Sale 15.06.2023 V6\\Entities\\Entities.csproj": {
+    "C:\\Users\\blntt\\Documents\\GitHub\\GameSale\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\blntt\\Desktop\\Proje son\\Game Sale 15.06.2023 V6\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\blntt\\Documents\\GitHub\\GameSale\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\blntt\\Desktop\\Proje son\\Game Sale 15.06.2023 V6\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\blntt\\Documents\\GitHub\\GameSale\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\blntt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\blntt\\Desktop\\Proje son\\Game Sale 15.06.2023 V6\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\blntt\\Documents\\GitHub\\GameSale\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -230,8 +230,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\blntt\\Desktop\\Proje son\\Game Sale 15.06.2023 V6\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\blntt\\Desktop\\Proje son\\Game Sale 15.06.2023 V6\\Core\\Core.csproj"
+              "C:\\Users\\blntt\\Documents\\GitHub\\GameSale\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\blntt\\Documents\\GitHub\\GameSale\\Core\\Core.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qfNxB8E3i2BvW+jgWiyoEFbnTYn1jtcsGg4NYM6pXJjzM+VoTsa9THAmLZ6e318fU2D4xuTL3+Gc18woWPeC1w==",
+  "dgSpecHash": "GAL6gwATz+kXbMMhnRpef72b/uqTBmaJoKOfhOiytAxWfDneZDDDJl9UOeiNbspnIVHe1PqwZgl9mrTy/73stQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\blntt\\Desktop\\Proje son\\Game Sale 15.06.2023 V6\\Business\\Business.csproj",
+  "projectFilePath": "C:\\Users\\blntt\\Documents\\GitHub\\GameSale\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\blntt\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\blntt\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

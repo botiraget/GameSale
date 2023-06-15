@@ -16,7 +16,7 @@ namespace Business.ValidationRules.FluentValidation
             RuleFor(c => c.GameName).Length(1, 100);
             RuleFor(c => c.GameName).Must(NotStartWith);
             RuleFor(c => c.Price).NotEmpty();
-            RuleFor(c => c.Price).LessThan(100);
+            RuleFor(c => c.Price).LessThan(10000);
             RuleFor(c => c.SystemRequirements).Length(1, 200);
 
 

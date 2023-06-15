@@ -9,117 +9,117 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GameSale
 build_property.RootNamespace = GameSale
-build_property.ProjectDir = C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\GameSale\
+build_property.ProjectDir = C:\Users\blntt\Documents\GitHub\GameSale\GameSale\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\blntt\Desktop\Proje son\Game Sale 15.06.2023 V6\GameSale
+build_property.MSBuildProjectDirectory = C:\Users\blntt\Documents\GitHub\GameSale\GameSale
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/blntt/Desktop/Proje son/Game Sale 15.06.2023 V6/GameSale/Views/Account/Edit.cshtml]
+[C:/Users/blntt/Documents/GitHub/GameSale/GameSale/Views/Account/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/blntt/Desktop/Proje son/Game Sale 15.06.2023 V6/GameSale/Views/Account/Login.cshtml]
+[C:/Users/blntt/Documents/GitHub/GameSale/GameSale/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/blntt/Desktop/Proje son/Game Sale 15.06.2023 V6/GameSale/Views/Account/ProfileIndex.cshtml]
+[C:/Users/blntt/Documents/GitHub/GameSale/GameSale/Views/Account/ProfileIndex.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxQcm9maWxlSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/blntt/Desktop/Proje son/Game Sale 15.06.2023 V6/GameSale/Views/Account/Register.cshtml]
+[C:/Users/blntt/Documents/GitHub/GameSale/GameSale/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/blntt/Desktop/Proje son/Game Sale 15.06.2023 V6/GameSale/Views/Category/Create.cshtml]
+[C:/Users/blntt/Documents/GitHub/GameSale/GameSale/Views/Category/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/blntt/Desktop/Proje son/Game Sale 15.06.2023 V6/GameSale/Views/Category/Delete.cshtml]
+[C:/Users/blntt/Documents/GitHub/GameSale/GameSale/Views/Category/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/blntt/Desktop/Proje son/Game Sale 15.06.2023 V6/GameSale/Views/Category/Details.cshtml]
+[C:/Users/blntt/Documents/GitHub/GameSale/GameSale/Views/Category/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/blntt/Desktop/Proje son/Game Sale 15.06.2023 V6/GameSale/Views/Category/Edit.cshtml]
+[C:/Users/blntt/Documents/GitHub/GameSale/GameSale/Views/Category/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/blntt/Desktop/Proje son/Game Sale 15.06.2023 V6/GameSale/Views/Category/Index.cshtml]
+[C:/Users/blntt/Documents/GitHub/GameSale/GameSale/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/blntt/Desktop/Proje son/Game Sale 15.06.2023 V6/GameSale/Views/Company/Create.cshtml]
+[C:/Users/blntt/Documents/GitHub/GameSale/GameSale/Views/Company/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/blntt/Desktop/Proje son/Game Sale 15.06.2023 V6/GameSale/Views/Company/Delete.cshtml]
+[C:/Users/blntt/Documents/GitHub/GameSale/GameSale/Views/Company/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/blntt/Desktop/Proje son/Game Sale 15.06.2023 V6/GameSale/Views/Company/Details.cshtml]
+[C:/Users/blntt/Documents/GitHub/GameSale/GameSale/Views/Company/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/blntt/Desktop/Proje son/Game Sale 15.06.2023 V6/GameSale/Views/Company/Edit.cshtml]
+[C:/Users/blntt/Documents/GitHub/GameSale/GameSale/Views/Company/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/blntt/Desktop/Proje son/Game Sale 15.06.2023 V6/GameSale/Views/Company/Index.cshtml]
+[C:/Users/blntt/Documents/GitHub/GameSale/GameSale/Views/Company/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/blntt/Desktop/Proje son/Game Sale 15.06.2023 V6/GameSale/Views/Game/Create.cshtml]
+[C:/Users/blntt/Documents/GitHub/GameSale/GameSale/Views/Game/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/blntt/Desktop/Proje son/Game Sale 15.06.2023 V6/GameSale/Views/Game/Delete.cshtml]
+[C:/Users/blntt/Documents/GitHub/GameSale/GameSale/Views/Game/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/blntt/Desktop/Proje son/Game Sale 15.06.2023 V6/GameSale/Views/Game/Details.cshtml]
+[C:/Users/blntt/Documents/GitHub/GameSale/GameSale/Views/Game/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/blntt/Desktop/Proje son/Game Sale 15.06.2023 V6/GameSale/Views/Game/Edit.cshtml]
+[C:/Users/blntt/Documents/GitHub/GameSale/GameSale/Views/Game/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/blntt/Desktop/Proje son/Game Sale 15.06.2023 V6/GameSale/Views/Game/Index.cshtml]
+[C:/Users/blntt/Documents/GitHub/GameSale/GameSale/Views/Game/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/blntt/Desktop/Proje son/Game Sale 15.06.2023 V6/GameSale/Views/Game/Purchase.cshtml]
+[C:/Users/blntt/Documents/GitHub/GameSale/GameSale/Views/Game/Purchase.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZVxQdXJjaGFzZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/blntt/Desktop/Proje son/Game Sale 15.06.2023 V6/GameSale/Views/Home/Index.cshtml]
+[C:/Users/blntt/Documents/GitHub/GameSale/GameSale/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/blntt/Desktop/Proje son/Game Sale 15.06.2023 V6/GameSale/Views/Home/Privacy.cshtml]
+[C:/Users/blntt/Documents/GitHub/GameSale/GameSale/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/blntt/Desktop/Proje son/Game Sale 15.06.2023 V6/GameSale/Views/Shared/Error.cshtml]
+[C:/Users/blntt/Documents/GitHub/GameSale/GameSale/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/blntt/Desktop/Proje son/Game Sale 15.06.2023 V6/GameSale/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/blntt/Documents/GitHub/GameSale/GameSale/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/blntt/Desktop/Proje son/Game Sale 15.06.2023 V6/GameSale/Views/_ViewImports.cshtml]
+[C:/Users/blntt/Documents/GitHub/GameSale/GameSale/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/blntt/Desktop/Proje son/Game Sale 15.06.2023 V6/GameSale/Views/_ViewStart.cshtml]
+[C:/Users/blntt/Documents/GitHub/GameSale/GameSale/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/blntt/Desktop/Proje son/Game Sale 15.06.2023 V6/GameSale/Views/Shared/_Layout.cshtml]
+[C:/Users/blntt/Documents/GitHub/GameSale/GameSale/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-x2hdig4igm

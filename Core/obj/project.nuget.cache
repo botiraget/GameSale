@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/rRFNAU6nlgLKDUCOHTEIkex2DdyQN9APyHk/U2OGFGznGpSY5E8j88ZRtFag+vDPe13tS833ySiBSNbBnLBhQ==",
+  "dgSpecHash": "Vz5CMd56MsAGh3Jd/AMz36QJp/rt1nHMc3Chgz7/jaYRSf3kA7pthhKHm289YUD715Hlz6nok1bnOC0Ga14CZA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\blntt\\Desktop\\Proje son\\Game Sale 15.06.2023 V6\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\blntt\\Documents\\GitHub\\GameSale\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\blntt\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\blntt\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
